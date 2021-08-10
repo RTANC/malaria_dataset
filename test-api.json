@@ -1,5 +1,10 @@
 [{
     "announce_date": "23/07/2564",
-    "topic": "จัดซื้ออุปกรณ์ซ่อมบำรุงวัสดุไฟฟ้า จำนวน 12 รายการ",
+    "topic": "จัดซื้ออุปกรณ์ซ่อมบำรุงวัสดุไฟฟ้า จำนวน 12 รายการ (ทดสอบ api)",
     "attachment": "https://rtanc.ac.th/wp-content/uploads/2021/08/ประกาศ.pdf"
-  }]
+},
+{
+  "announce_date": "23/07/2564",
+  "topic": "(ทดสอบ api)",
+  "attachment": "https://rtanc.ac.th/wp-content/uploads/2021/08/ประกาศ.pdf"
+}]
